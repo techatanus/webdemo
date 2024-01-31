@@ -1,0 +1,24 @@
+{
+  "name": "webdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/techatanus/atanas_war2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techatanus/atanas_war2/issues"
+  },
+  "homepage": "https://github.com/techatanus/atanas_war2#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
